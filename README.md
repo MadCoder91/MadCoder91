@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything really.
 - 📫 How to reach me shoot me a message.
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I am self taught to do coding. But I am actual a Qualified Boilermaker, Farmer, Hunter, Ex Bullrider, Ex Football Player.
+- ⚡ Fun fact: I am self taught to do coding. But I am actual a Qualified Boilermaker, Farmer, Hunter, Ex Bullrider, Ex Football Player (Rugby League).
 
 <!---
 MadCoder91/MadCoder91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
