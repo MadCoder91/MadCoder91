@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MadCoder91
-- 👀 I’m interested in Coding with c# and .net core to create desktop apps.
-- 🌱 I’m currently learning WPF .net 8.0 Custom Controls.
+- 👀 I’m interested in Coding PC Games with Visual Studio and Unreal Engine.
+- 🌱 I’m currently learning Unreal Engine Game Development and also C++.
 - 💞️ I’m looking to collaborate on anything really.
 - 📫 How to reach me shoot me a message.
 - 😄 Pronouns: He/Him 
